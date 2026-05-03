@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-xsrpo5.lbxeventos.com.br/sitemap.xml
